@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <shape  xmlns:android="http://schemas.android.com/apk/res/android">
     <gradient
-        android:angle="90"
+        android:angle="315"
     android:type="linear"
-    android:startColor="@color/button_material_light"
-    android:centerColor="@color/button_material_light"
-    android:endColor="#FF000000"/>
+    android:startColor="#47d9bf"
+
+    android:centerColor="#32e4a9"
+
+    android:endColor="#02fe74"/>
 </shape >
